@@ -111,7 +111,7 @@ body {
   color: var(--mdb-body-color);
   text-align: var(--mdb-body-text-align);
   background: linear-gradient(-45deg, #0B0C10, #1F2833, #0B0C10, #1F2833, #0B0C10) !important;
-	background-size: 400% 400%;
+	background-size: 400% 400% !important;
 	-webkit-animation: gradient 15s ease infinite;
 	        animation: gradient 15s ease infinite;
   background-color: var(--mdb-body-bg);
