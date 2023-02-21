@@ -3384,7 +3384,7 @@ fieldset:disabled .btn {
   --mdb-navbar-padding-x: 0;
   --mdb-navbar-padding-y: 0.5rem;
   --mdb-navbar-color: rgba(255, 1, 1, 0.733);
-  --mdb-navbar-hover-color: rgba(0, 0, 0, 0.7);
+  --mdb-navbar-hover-color: rgba(117, 20, 20, 0.7);
   --mdb-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --mdb-navbar-active-color: rgba(0, 0, 0, 0.9);
   --mdb-navbar-brand-padding-y: 0.3rem;
@@ -3460,6 +3460,7 @@ fieldset:disabled .btn {
 .navbar-text a:focus,
 .navbar-text a:hover {
   color: var(--mdb-navbar-active-color);
+  text-decoration: underline;
 }
 .navbar-collapse {
   flex-basis: 100%;
