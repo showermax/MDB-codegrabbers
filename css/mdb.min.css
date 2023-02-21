@@ -3392,7 +3392,7 @@ fieldset:disabled .btn {
   --mdb-navbar-brand-font-size: 1.25rem;
   --mdb-navbar-brand-color: rgba(0, 0, 0, 0.9);
   --mdb-navbar-brand-hover-color: rgba(0, 0, 0, 0.9);
-  --mdb-navbar-nav-link-padding-x: 0.5rem;
+  --mdb-navbar-nav-link-padding-x: 1rem;
   --mdb-navbar-toggler-padding-y: 0.25rem;
   --mdb-navbar-toggler-padding-x: 0.75rem;
   --mdb-navbar-toggler-font-size: 1.25rem;
