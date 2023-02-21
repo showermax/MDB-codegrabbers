@@ -87,8 +87,8 @@
   --mdb-border-radius-xl: 1rem;
   --mdb-border-radius-2xl: 2rem;
   --mdb-border-radius-pill: 50rem;
-  --mdb-link-color: #3b71ca;
-  --mdb-link-hover-color: #386bc0;
+  --mdb-link-color: #66FCF1;
+  --mdb-link-hover-color: #45A29E;
   --mdb-code-color: #e91e63;
   --mdb-highlight-bg: #fff9c4;
 }
@@ -3289,6 +3289,7 @@ fieldset:disabled .btn {
   font-size: var(--mdb-nav-link-font-size);
   font-weight: var(--mdb-nav-link-font-weight);
   color: var(--mdb-nav-link-color);
+  text-transform: uppercase;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out;
 }
@@ -3300,6 +3301,7 @@ fieldset:disabled .btn {
 .nav-link:focus,
 .nav-link:hover {
   color: var(--mdb-nav-link-hover-color);
+  border-bottom: 2px solid #45A29E;
 }
 .nav-link.disabled {
   color: var(--mdb-nav-link-disabled-color);
