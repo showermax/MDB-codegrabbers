@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100px" height="100px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 100 100"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="283px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 200 283"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="672" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
-	<font-face 
-		font-family="Roboto">
-		<font-face-src>
-			<font-face-name name="Roboto Bold"/>
-		</font-face-src>
-	</font-face>
-   <missing-glyph><path d="M0 0z"/></missing-glyph>
-   <glyph unicode="K" horiz-adv-x="634" d="M286.167 285.167l-76.167 -82.001 0 -203.166 -146.5 0 0 711.001 146.5 0 0 -322.333 64.5006 88.4995 181.166 233.834 180.167 0 -252.5 -316.001 259.834 -394.999 -174.334 0 -182.666 285.167z"/>
-   <glyph unicode="B" horiz-adv-x="638" d="M63.3331 0l0 711.001 249.001 0c86.3327,0 151.833,-16.5012 196.333,-49.6666 44.667,-33.0006 67.0004,-81.5014 67.0004,-145.334 0,-34.8325 -9.00001,-65.6664 -27,-92.1668 -17.8335,-26.5004 -42.6668,-45.9992 -74.6682,-58.3335 36.5014,-9.16654 65.1668,-27.4996 86.168,-55.1658 20.9994,-27.6662 31.5,-61.5012 31.5,-101.5 0,-68.3345 -21.8339,-120.001 -65.3333,-155.167 -43.6678,-35.1674 -105.833,-53.0008 -186.5,-53.667l-276.5 0zm146.5 309l0 -191 125.5 0c34.4994,0 61.4995,8.16733 80.8335,24.5002 19.3323,16.3347 29.0002,39.0012 29.0002,67.8331 0,64.8337 -33.6668,97.6678 -101,98.667l-134.334 0zm0 104l108.5 0c73.8337,1.33406 110.835,30.6673 110.835,88.3347 0,32.1662 -9.33485,55.3323 -28.1675,69.4985 -18.6662,14.1679 -48.166,21.1677 -88.666,21.1677l-102.501 0 0 -179.001z"/>
-   <glyph unicode="G" horiz-adv-x="681" d="M625.834 89.8335c-26.3339,-31.6666 -63.4997,-56.1668 -111.834,-73.6672 -48.166,-17.5004 -101.5,-26.1656 -160,-26.1656 -61.666,0 -115.5,13.5 -162,40.3317 -46.3323,26.8335 -82.1658,65.8347 -107.332,117 -25.3347,51.1672 -38.1668,111.334 -38.8347,180.333l0 48.3343c0,70.9991 12.0012,132.5 35.8335,184.5 24.0006,51.9998 58.5,91.6672 103.5,119.167 45.1666,27.4996 98.0009,41.3327 158.501,41.3327 84.3325,0 150.165,-20.1667 197.832,-60.3337 47.5016,-40.1652 75.6674,-98.6652 84.3343,-175.334l-142.5 0c-6.5002,40.6683 -21.0012,70.5012 -43.1681,89.3339 -22.3317,18.8345 -52.9991,28.3341 -92.165,28.3341 -49.6683,0 -87.6668,-18.6679 -113.668,-56.1668 -25.999,-37.5006 -39.3325,-93.1678 -39.499,-167.166l0 -45.3349c0,-74.6664 13.9996,-131 42.3319,-169.166 28.3341,-38.1668 69.8333,-57.166 124.501,-57.166 55.1658,0 94.3318,11.6663 117.833,35.1674l0 122.832 -133.333 0 0 108 279.666 0 0 -284.166z"/>
-  </font>
-  <style type="text/css">
-   <![CDATA[
-    @font-face { font-family:"Roboto";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
-    .fil0 {fill:url(#id0)}
-    .fnt0 {font-weight:bold;font-size:56.4444px;font-family:'Roboto'}
-   ]]>
-  </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-0.602432" y1="52.5802" x2="102.634" y2="52.5802">
-   <stop offset="0" style="stop-opacity:1; stop-color:#45A29E"/>
-   <stop offset="0.490196" style="stop-opacity:1; stop-color:#55CFC7"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#66FCF1"/>
-  </linearGradient>
+   <clipPath id="id0" style="clip-rule:nonzero">
+    <path d="M90 145l0 -4 4 -4 3 0 -4 5 -2 2 -1 1zm-3 2l0 -10 4 0 0 10 -4 0zm7 0l-3 -4 2 -2 5 6 -4 0zm9 0c-1,0 -2,0 -2,0 -1,0 -2,-1 -2,-1 -1,0 -1,-1 -1,-2 -1,0 -1,-1 -1,-2 0,-1 0,-1 1,-2 0,0 0,-1 1,-2 0,0 1,0 2,-1 0,0 1,0 2,0 1,0 2,0 3,1 0,0 1,0 2,1l-3 2c0,-1 0,-1 -1,-1 0,0 0,0 -1,0 0,0 -1,0 -1,0 0,0 0,0 -1,0 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 1,0 1,0 1,1 0,0 1,0 1,0 0,0 1,0 1,0 1,-1 1,-1 1,-1l2 2c0,1 -1,1 -2,1 -1,0 -1,0 -2,0zm1 -1l0 -4 3 0 0 4 -3 0zm5 1l0 -10 5 0c1,0 2,1 3,1 1,0 1,1 1,2 0,0 0,1 0,1 -1,1 -1,1 -2,1 0,0 -1,0 -2,0l1 0c0,0 1,0 2,0 0,0 1,1 1,1 0,0 0,1 0,1 0,1 0,2 -1,2 0,1 -1,1 -3,1l-5 0zm3 -2l2 0c0,0 1,0 1,0 0,0 0,-1 0,-1 0,0 0,0 0,0 0,-1 -1,-1 -1,-1l-2 0 0 -2 2 0c0,0 0,0 0,0 1,0 1,0 1,-1 0,0 0,0 -1,0 0,0 0,0 0,0l-2 0 0 5z"/>
+   </clipPath>
  </defs>
  <g id="Слой_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <text x="-4" y="73"  class="fil0 fnt0">KGB</text>
+  <g style="clip-path:url(#id0)">
+   <image x="87" y="137" width="31.2765" height="10.4112" xlink:href="logo100_Images\logo100_ImgID1.png"/>
+  </g>
  </g>
 </svg>
