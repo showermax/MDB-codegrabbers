@@ -104,7 +104,7 @@
 }
 body {
   margin: 0;
-  font-family: var(--mdb-body-font-family);
+  font-family: Montserrat;
   font-size: var(--mdb-body-font-size);
   font-weight: var(--mdb-body-font-weight);
   line-height: var(--mdb-body-line-height);
@@ -3383,7 +3383,7 @@ fieldset:disabled .btn {
 .navbar {
   --mdb-navbar-padding-x: 0;
   --mdb-navbar-padding-y: 0.5rem;
-  --mdb-navbar-color: rgba(0, 0, 0, 0.55);
+  --mdb-navbar-color: rgba(255, 1, 1, 0.733);
   --mdb-navbar-hover-color: rgba(0, 0, 0, 0.7);
   --mdb-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --mdb-navbar-active-color: rgba(0, 0, 0, 0.9);
@@ -3791,10 +3791,10 @@ fieldset:disabled .btn {
   overflow-y: visible;
 }
 .navbar-dark {
-  --mdb-navbar-color: hsla(0, 0%, 100%, 0.55);
-  --mdb-navbar-hover-color: hsla(0, 0%, 100%, 0.75);
+  --mdb-navbar-color: #66FCF1;
+  --mdb-navbar-hover-color: #45A29E;
   --mdb-navbar-disabled-color: hsla(0, 0%, 100%, 0.25);
-  --mdb-navbar-active-color: #fff;
+  --mdb-navbar-active-color: #45A29E;
   --mdb-navbar-brand-color: #fff;
   --mdb-navbar-brand-hover-color: #fff;
   --mdb-navbar-toggler-border-color: hsla(0, 0%, 100%, 0.1);
