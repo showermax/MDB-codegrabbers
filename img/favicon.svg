@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="32px" height="11px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 32 11"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str64 {stroke:#035CD4;stroke-width:0.146304}
+    .str102 {stroke:#03B8BF;stroke-width:0.146304}
+    .str26 {stroke:#03D6C9;stroke-width:0.146304}
+    .str115 {stroke:#0D1445;stroke-width:0.146304}
+    .str66 {stroke:#0DAD45;stroke-width:0.146304}
+    .str99 {stroke:#0DC282;stroke-width:0.146304}
+    .str98 {stroke:#0DD6A1;stroke-width:0.146304}
+    .str113 {stroke:#0DEBE8;stroke-width:0.146304}
+    .str1 {stroke:#17006E;stroke-width:0.146304}
+    .str8 {stroke:#173308;stroke-width:0.146304}
+    .str95 {stroke:#177AC9;stroke-width:0.146304}
+    .str19 {stroke:#17998C;stroke-width:0.146304}
+    .str7 {stroke:#21338C;stroke-width:0.146304}
+    .str118 {stroke:#218563;stroke-width:0.146304}
+    .str65 {stroke:#2B29AB;stroke-width:0.146304}
+    .str93 {stroke:#2B47FC;stroke-width:0.146304}
+    .str117 {stroke:#2B7030;stroke-width:0.146304}
+    .str87 {stroke:#3600F2;stroke-width:0.146304}
+    .str73 {stroke:#361FFC;stroke-width:0.146304}
+    .str2 {stroke:#369959;stroke-width:0.146304}
+    .str49 {stroke:#36D659;stroke-width:0.146304}
+    .str120 {stroke:#36D696;stroke-width:0.146304}
+    .str50 {stroke:#404759;stroke-width:0.146304}
+    .str86 {stroke:#40998C;stroke-width:0.146304}
+    .str15 {stroke:#40AD4F;stroke-width:0.146304}
+    .str17 {stroke:#4A1F26;stroke-width:0.146304}
+    .str71 {stroke:#4A3D59;stroke-width:0.146304}
+    .str35 {stroke:#4AB8F2;stroke-width:0.146304}
+    .str88 {stroke:#54008C;stroke-width:0.146304}
+    .str119 {stroke:#540A63;stroke-width:0.146304}
+    .str106 {stroke:#54476E;stroke-width:0.146304}
+    .str60 {stroke:#545226;stroke-width:0.146304}
+    .str75 {stroke:#5470A1;stroke-width:0.146304}
+    .str56 {stroke:#54AD30;stroke-width:0.146304}
+    .str38 {stroke:#54B8FC;stroke-width:0.146304}
+    .str72 {stroke:#54EBE8;stroke-width:0.146304}
+    .str70 {stroke:#54F51C;stroke-width:0.146304}
+    .str114 {stroke:#5E1496;stroke-width:0.146304}
+    .str0 {stroke:#5E2945;stroke-width:0.146304}
+    .str76 {stroke:#5E298C;stroke-width:0.146304}
+    .str47 {stroke:#5E7AAB;stroke-width:0.146304}
+    .str100 {stroke:#5E8FF2;stroke-width:0.146304}
+    .str51 {stroke:#5EF5D4;stroke-width:0.146304}
+    .str77 {stroke:#6929FC;stroke-width:0.146304}
+    .str33 {stroke:#697A59;stroke-width:0.146304}
+    .str90 {stroke:#69C2E8;stroke-width:0.146304}
+    .str21 {stroke:#69D6BF;stroke-width:0.146304}
+    .str78 {stroke:#69E063;stroke-width:0.146304}
+    .str23 {stroke:#73668C;stroke-width:0.146304}
+    .str55 {stroke:#737A8C;stroke-width:0.146304}
+    .str91 {stroke:#73C230;stroke-width:0.146304}
+    .str48 {stroke:#73C2AB;stroke-width:0.146304}
+    .str83 {stroke:#7D1482;stroke-width:0.146304}
+    .str24 {stroke:#7D29B5;stroke-width:0.146304}
+    .str12 {stroke:#7D3326;stroke-width:0.146304}
+    .str96 {stroke:#7D47AB;stroke-width:0.146304}
+    .str22 {stroke:#7D7AAB;stroke-width:0.146304}
+    .str13 {stroke:#7D8545;stroke-width:0.146304}
+    .str4 {stroke:#7DAD63;stroke-width:0.146304}
+    .str31 {stroke:#7DE012;stroke-width:0.146304}
+    .str39 {stroke:#7DE08C;stroke-width:0.146304}
+    .str68 {stroke:#7DF58C;stroke-width:0.146304}
+    .str9 {stroke:#870026;stroke-width:0.146304}
+    .str108 {stroke:#87143B;stroke-width:0.146304}
+    .str92 {stroke:#871459;stroke-width:0.146304}
+    .str81 {stroke:#8729A1;stroke-width:0.146304}
+    .str37 {stroke:#8733D4;stroke-width:0.146304}
+    .str54 {stroke:#876678;stroke-width:0.146304}
+    .str57 {stroke:#877082;stroke-width:0.146304}
+    .str6 {stroke:#8785DE;stroke-width:0.146304}
+    .str94 {stroke:#878F12;stroke-width:0.146304}
+    .str20 {stroke:#87B808;stroke-width:0.146304}
+    .str16 {stroke:#87E0FC;stroke-width:0.146304}
+    .str53 {stroke:#910AE8;stroke-width:0.146304}
+    .str52 {stroke:#915C78;stroke-width:0.146304}
+    .str105 {stroke:#918559;stroke-width:0.146304}
+    .str110 {stroke:#918F78;stroke-width:0.146304}
+    .str27 {stroke:#91E008;stroke-width:0.146304}
+    .str58 {stroke:#9C1FFC;stroke-width:0.146304}
+    .str80 {stroke:#9CEB6E;stroke-width:0.146304}
+    .str11 {stroke:#A63DBF;stroke-width:0.146304}
+    .str103 {stroke:#A652A1;stroke-width:0.146304}
+    .str18 {stroke:#A6B826;stroke-width:0.146304}
+    .str61 {stroke:#A6CC78;stroke-width:0.146304}
+    .str40 {stroke:#B0143B;stroke-width:0.146304}
+    .str5 {stroke:#B0A38C;stroke-width:0.146304}
+    .str112 {stroke:#BA0A08;stroke-width:0.146304}
+    .str116 {stroke:#BA1412;stroke-width:0.146304}
+    .str45 {stroke:#BA52B5;stroke-width:0.146304}
+    .str29 {stroke:#BA853B;stroke-width:0.146304}
+    .str121 {stroke:#BAB859;stroke-width:0.146304}
+    .str97 {stroke:#BAD645;stroke-width:0.146304}
+    .str104 {stroke:#BAEB63;stroke-width:0.146304}
+    .str79 {stroke:#BAF545;stroke-width:0.146304}
+    .str34 {stroke:#C43D08;stroke-width:0.146304}
+    .str36 {stroke:#C43DA1;stroke-width:0.146304}
+    .str63 {stroke:#C47045;stroke-width:0.146304}
+    .str59 {stroke:#C47A82;stroke-width:0.146304}
+    .str43 {stroke:#C48582;stroke-width:0.146304}
+    .str14 {stroke:#C4CC12;stroke-width:0.146304}
+    .str10 {stroke:#CF14DE;stroke-width:0.146304}
+    .str46 {stroke:#CF701C;stroke-width:0.146304}
+    .str30 {stroke:#CFD61C;stroke-width:0.146304}
+    .str82 {stroke:#D91426;stroke-width:0.146304}
+    .str42 {stroke:#D947D4;stroke-width:0.146304}
+    .str69 {stroke:#D95C59;stroke-width:0.146304}
+    .str74 {stroke:#D95C82;stroke-width:0.146304}
+    .str89 {stroke:#D97030;stroke-width:0.146304}
+    .str109 {stroke:#D9D6FC;stroke-width:0.146304}
+    .str32 {stroke:#E30A78;stroke-width:0.146304}
+    .str84 {stroke:#E33DB5;stroke-width:0.146304}
+    .str3 {stroke:#E35CDE;stroke-width:0.146304}
+    .str62 {stroke:#E370D4;stroke-width:0.146304}
+    .str85 {stroke:#E3F5BF;stroke-width:0.146304}
+    .str107 {stroke:#ED1445;stroke-width:0.146304}
+    .str111 {stroke:#ED33BF;stroke-width:0.146304}
+    .str25 {stroke:#ED5CE8;stroke-width:0.146304}
+    .str44 {stroke:#EDC245;stroke-width:0.146304}
+    .str41 {stroke:#F70A63;stroke-width:0.146304}
+    .str67 {stroke:#F7521C;stroke-width:0.146304}
+    .str28 {stroke:#F77ABF;stroke-width:0.146304}
+    .str101 {stroke:#F7E0FC;stroke-width:0.146304}
+    .str204 {stroke:#0300AB;stroke-width:0.146304}
+    .str203 {stroke:#038508;stroke-width:0.146304}
+    .str201 {stroke:#0385BF;stroke-width:0.146304}
+    .str187 {stroke:#03E008;stroke-width:0.146304}
+    .str188 {stroke:#03EB6E;stroke-width:0.146304}
+    .str214 {stroke:#0D1F26;stroke-width:0.146304}
+    .str230 {stroke:#0D33DE;stroke-width:0.146304}
+    .str170 {stroke:#0D70B5;stroke-width:0.146304}
+    .str190 {stroke:#0D7AC9;stroke-width:0.146304}
+    .str128 {stroke:#0D85BF;stroke-width:0.146304}
+    .str207 {stroke:#0DA330;stroke-width:0.146304}
+    .str162 {stroke:#171FDE;stroke-width:0.146304}
+    .str185 {stroke:#1747C9;stroke-width:0.146304}
+    .str194 {stroke:#17A34F;stroke-width:0.146304}
+    .str208 {stroke:#17A3E8;stroke-width:0.146304}
+    .str154 {stroke:#17EB1C;stroke-width:0.146304}
+    .str131 {stroke:#2114C9;stroke-width:0.146304}
+    .str169 {stroke:#212912;stroke-width:0.146304}
+    .str199 {stroke:#2133F2;stroke-width:0.146304}
+    .str181 {stroke:#215CF2;stroke-width:0.146304}
+    .str125 {stroke:#21C2B5;stroke-width:0.146304}
+    .str147 {stroke:#2B0045;stroke-width:0.146304}
+    .str161 {stroke:#2B0A08;stroke-width:0.146304}
+    .str219 {stroke:#2B14A1;stroke-width:0.146304}
+    .str150 {stroke:#2B1F96;stroke-width:0.146304}
+    .str212 {stroke:#2B473B;stroke-width:0.146304}
+    .str139 {stroke:#2B851C;stroke-width:0.146304}
+    .str195 {stroke:#2BAD3B;stroke-width:0.146304}
+    .str171 {stroke:#2BCC4F;stroke-width:0.146304}
+    .str145 {stroke:#2BEB1C;stroke-width:0.146304}
+    .str196 {stroke:#2BEB59;stroke-width:0.146304}
+    .str126 {stroke:#3629DE;stroke-width:0.146304}
+    .str152 {stroke:#366696;stroke-width:0.146304}
+    .str178 {stroke:#367A08;stroke-width:0.146304}
+    .str177 {stroke:#367AA1;stroke-width:0.146304}
+    .str226 {stroke:#36AD08;stroke-width:0.146304}
+    .str232 {stroke:#36F578;stroke-width:0.146304}
+    .str193 {stroke:#403382;stroke-width:0.146304}
+    .str202 {stroke:#408F1C;stroke-width:0.146304}
+    .str197 {stroke:#409959;stroke-width:0.146304}
+    .str130 {stroke:#40AD26;stroke-width:0.146304}
+    .str123 {stroke:#40CC3B;stroke-width:0.146304}
+    .str192 {stroke:#4A3359;stroke-width:0.146304}
+    .str163 {stroke:#4A5C26;stroke-width:0.146304}
+    .str223 {stroke:#4AB83B;stroke-width:0.146304}
+    .str235 {stroke:#4AB86E;stroke-width:0.146304}
+    .str166 {stroke:#540A45;stroke-width:0.146304}
+    .str189 {stroke:#540ADE;stroke-width:0.146304}
+    .str146 {stroke:#543DB5;stroke-width:0.146304}
+    .str148 {stroke:#548FD4;stroke-width:0.146304}
+    .str227 {stroke:#5499B5;stroke-width:0.146304}
+    .str172 {stroke:#5E52FC;stroke-width:0.146304}
+    .str220 {stroke:#5E5C1C;stroke-width:0.146304}
+    .str205 {stroke:#5EB88C;stroke-width:0.146304}
+    .str224 {stroke:#690A6E;stroke-width:0.146304}
+    .str157 {stroke:#691408;stroke-width:0.146304}
+    .str122 {stroke:#69331C;stroke-width:0.146304}
+    .str186 {stroke:#6952F2;stroke-width:0.146304}
+    .str200 {stroke:#695CF2;stroke-width:0.146304}
+    .str151 {stroke:#69AD12;stroke-width:0.146304}
+    .str160 {stroke:#69C2DE;stroke-width:0.146304}
+    .str129 {stroke:#735C96;stroke-width:0.146304}
+    .str174 {stroke:#7366A1;stroke-width:0.146304}
+    .str233 {stroke:#738559;stroke-width:0.146304}
+    .str210 {stroke:#73C21C;stroke-width:0.146304}
+    .str216 {stroke:#7D6630;stroke-width:0.146304}
+    .str213 {stroke:#7D70A1;stroke-width:0.146304}
+    .str173 {stroke:#7D8FDE;stroke-width:0.146304}
+    .str144 {stroke:#8752C9;stroke-width:0.146304}
+    .str153 {stroke:#878FE8;stroke-width:0.146304}
+    .str225 {stroke:#87A36E;stroke-width:0.146304}
+    .str209 {stroke:#87EBE8;stroke-width:0.146304}
+    .str184 {stroke:#915CDE;stroke-width:0.146304}
+    .str165 {stroke:#9170D4;stroke-width:0.146304}
+    .str183 {stroke:#917AA1;stroke-width:0.146304}
+    .str127 {stroke:#918F45;stroke-width:0.146304}
+    .str143 {stroke:#91C2C9;stroke-width:0.146304}
+    .str132 {stroke:#9C331C;stroke-width:0.146304}
+    .str140 {stroke:#9C3D1C;stroke-width:0.146304}
+    .str206 {stroke:#9CF54F;stroke-width:0.146304}
+    .str136 {stroke:#A647F2;stroke-width:0.146304}
+    .str229 {stroke:#A6EB26;stroke-width:0.146304}
+    .str222 {stroke:#B01FFC;stroke-width:0.146304}
+    .str135 {stroke:#B0B808;stroke-width:0.146304}
+    .str138 {stroke:#BA0026;stroke-width:0.146304}
+    .str175 {stroke:#BA338C;stroke-width:0.146304}
+    .str155 {stroke:#BAA3C9;stroke-width:0.146304}
+    .str176 {stroke:#BAF5FC;stroke-width:0.146304}
+    .str221 {stroke:#C40026;stroke-width:0.146304}
+    .str217 {stroke:#C43DDE;stroke-width:0.146304}
+    .str159 {stroke:#C43DE8;stroke-width:0.146304}
+    .str231 {stroke:#C47045;stroke-width:0.146304}
+    .str133 {stroke:#C4A330;stroke-width:0.146304}
+    .str142 {stroke:#C4EBDE;stroke-width:0.146304}
+    .str191 {stroke:#CF99D4;stroke-width:0.146304}
+    .str168 {stroke:#CFADDE;stroke-width:0.146304}
+    .str149 {stroke:#CFCC1C;stroke-width:0.146304}
+    .str234 {stroke:#CFCCF2;stroke-width:0.146304}
+    .str182 {stroke:#CFD626;stroke-width:0.146304}
+    .str124 {stroke:#CFF596;stroke-width:0.146304}
+    .str218 {stroke:#D96630;stroke-width:0.146304}
+    .str134 {stroke:#D970F2;stroke-width:0.146304}
+    .str215 {stroke:#E3003B;stroke-width:0.146304}
+    .str180 {stroke:#E366C9;stroke-width:0.146304}
+    .str198 {stroke:#E37A3B;stroke-width:0.146304}
+    .str158 {stroke:#E3A345;stroke-width:0.146304}
+    .str156 {stroke:#E3AD30;stroke-width:0.146304}
+    .str141 {stroke:#ED3326;stroke-width:0.146304}
+    .str211 {stroke:#ED661C;stroke-width:0.146304}
+    .str228 {stroke:#ED6682;stroke-width:0.146304}
+    .str137 {stroke:#ED99E8;stroke-width:0.146304}
+    .str179 {stroke:#EDEB26;stroke-width:0.146304}
+    .str164 {stroke:#F7144F;stroke-width:0.146304}
+    .str167 {stroke:#F77ABF;stroke-width:0.146304}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+    <clipPath id="id0" style="clip-rule:nonzero">
+     <path d="M3 8l0 -3 4 -5 4 0 -5 5 -2 2 -1 1zm-3 3l0 -11 3 0 0 11 -3 0zm7 0l-3 -4 2 -3 5 7 -4 0z"/>
+    </clipPath>
+    <clipPath id="id1" style="clip-rule:nonzero">
+     <path d="M3 8l0 -3 4 -5 4 0 -5 5 -2 2 -1 1zm-3 3l0 -11 3 0 0 11 -3 0zm7 0l-3 -4 2 -3 5 7 -4 0z"/>
+    </clipPath>
+    <clipPath id="id2" style="clip-rule:nonzero">
+     <path d="M3 8l0 -3 4 -5 4 0 -5 5 -2 2 -1 1zm-3 3l0 -11 3 0 0 11 -3 0zm7 0l-3 -4 2 -3 5 7 -4 0z"/>
+    </clipPath>
+    <clipPath id="id3" style="clip-rule:nonzero">
+     <path d="M16 11c-1,0 -2,0 -2,-1 -1,0 -1,0 -2,-1 0,0 -1,-1 -1,-1 0,-1 -1,-2 -1,-3 0,0 1,-1 1,-2 0,0 1,-1 1,-1 1,-1 1,-1 2,-1 1,-1 1,-1 2,-1 1,0 2,0 3,1 1,0 1,0 2,1l-2 2c-1,0 -1,-1 -1,-1 -1,0 -1,0 -2,0 0,0 0,0 -1,0 0,0 0,0 0,1 -1,0 -1,0 -1,0 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 1,1 0,1 0,1 0,1 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,-1 2,-1l1 2c0,1 -1,1 -2,1 0,1 -1,1 -2,1zm2 -2l0 -4 2 0 0 4 -2 0z"/>
+    </clipPath>
+    <clipPath id="id4" style="clip-rule:nonzero">
+     <path d="M16 11c-1,0 -2,0 -2,-1 -1,0 -1,0 -2,-1 0,0 -1,-1 -1,-1 0,-1 -1,-2 -1,-3 0,0 1,-1 1,-2 0,0 1,-1 1,-1 1,-1 1,-1 2,-1 1,-1 1,-1 2,-1 1,0 2,0 3,1 1,0 1,0 2,1l-2 2c-1,0 -1,-1 -1,-1 -1,0 -1,0 -2,0 0,0 0,0 -1,0 0,0 0,0 0,1 -1,0 -1,0 -1,0 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 1,1 0,1 0,1 0,1 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,-1 2,-1l1 2c0,1 -1,1 -2,1 0,1 -1,1 -2,1zm2 -2l0 -4 2 0 0 4 -2 0z"/>
+    </clipPath>
+    <clipPath id="id5" style="clip-rule:nonzero">
+     <path d="M16 11c-1,0 -2,0 -2,-1 -1,0 -1,0 -2,-1 0,0 -1,-1 -1,-1 0,-1 -1,-2 -1,-3 0,0 1,-1 1,-2 0,0 1,-1 1,-1 1,-1 1,-1 2,-1 1,-1 1,-1 2,-1 1,0 2,0 3,1 1,0 1,0 2,1l-2 2c-1,0 -1,-1 -1,-1 -1,0 -1,0 -2,0 0,0 0,0 -1,0 0,0 0,0 0,1 -1,0 -1,0 -1,0 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 1,1 0,1 0,1 0,1 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,-1 2,-1l1 2c0,1 -1,1 -2,1 0,1 -1,1 -2,1zm2 -2l0 -4 2 0 0 4 -2 0z"/>
+    </clipPath>
+    <clipPath id="id6" style="clip-rule:nonzero">
+     <path d="M22 11l0 -11 5 0c2,0 3,1 3,1 1,1 1,1 1,2 0,1 0,1 0,1 0,1 -1,1 -1,1 -1,1 -1,1 -2,1l0 -1c1,0 2,0 2,0 1,0 1,1 1,1 1,1 1,1 1,2 0,1 0,1 -1,2 -1,0 -2,1 -3,1l-6 0zm3 -3l2 0c1,0 1,0 1,0 0,0 0,0 0,-1 0,0 0,0 0,0 0,0 0,0 -1,0l-2 0 0 -3 2 0c0,0 1,0 1,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,0 -1,0 -1,0l-2 0 0 5z"/>
+    </clipPath>
+    <clipPath id="id7" style="clip-rule:nonzero">
+     <path d="M22 11l0 -11 5 0c2,0 3,1 3,1 1,1 1,1 1,2 0,1 0,1 0,1 0,1 -1,1 -1,1 -1,1 -1,1 -2,1l0 -1c1,0 2,0 2,0 1,0 1,1 1,1 1,1 1,1 1,2 0,1 0,1 -1,2 -1,0 -2,1 -3,1l-6 0zm3 -3l2 0c1,0 1,0 1,0 0,0 0,0 0,-1 0,0 0,0 0,0 0,0 0,0 -1,0l-2 0 0 -3 2 0c0,0 1,0 1,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,0 -1,0 -1,0l-2 0 0 5z"/>
+    </clipPath>
+    <clipPath id="id8" style="clip-rule:nonzero">
+     <path d="M22 11l0 -11 5 0c2,0 3,1 3,1 1,1 1,1 1,2 0,1 0,1 0,1 0,1 -1,1 -1,1 -1,1 -1,1 -2,1l0 -1c1,0 2,0 2,0 1,0 1,1 1,1 1,1 1,1 1,2 0,1 0,1 -1,2 -1,0 -2,1 -3,1l-6 0zm3 -3l2 0c1,0 1,0 1,0 0,0 0,0 0,-1 0,0 0,0 0,0 0,0 0,0 -1,0l-2 0 0 -3 2 0c0,0 1,0 1,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,0 -1,0 -1,0l-2 0 0 5z"/>
+    </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <g style="clip-path:url(#id0)">
+   </g>
+   <g style="clip-path:url(#id1)">
+    <line class="fil0 str0" x1="16" y1="29" x2="-8" y2= "6" />
+    <line id="1" class="fil0 str1" x1="16" y1="29" x2="-8" y2= "5" />
+    <line id="2" class="fil0 str2" x1="17" y1="29" x2="-7" y2= "5" />
+    <line id="3" class="fil0 str3" x1="17" y1="29" x2="-7" y2= "5" />
+    <line id="4" class="fil0 str4" x1="17" y1="28" x2="-7" y2= "4" />
+    <line id="5" class="fil0 str5" x1="17" y1="28" x2="-7" y2= "4" />
+    <line id="6" class="fil0 str6" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="7" class="fil0 str7" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="8" class="fil0 str8" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="9" class="fil0 str9" x1="18" y1="27" x2="-6" y2= "3" />
+    <line id="10" class="fil0 str10" x1="18" y1="27" x2="-6" y2= "3" />
+    <line id="11" class="fil0 str11" x1="18" y1="27" x2="-5" y2= "3" />
+    <line id="12" class="fil0 str12" x1="19" y1="27" x2="-5" y2= "3" />
+    <line id="13" class="fil0 str13" x1="19" y1="27" x2="-5" y2= "3" />
+    <line id="14" class="fil0 str14" x1="19" y1="26" x2="-5" y2= "2" />
+    <line id="15" class="fil0 str15" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="16" class="fil0 str16" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="17" class="fil0 str17" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="18" class="fil0 str18" x1="20" y1="25" x2="-4" y2= "1" />
+    <line id="19" class="fil0 str19" x1="21" y1="25" x2="-3" y2= "1" />
+    <line id="20" class="fil0 str20" x1="21" y1="25" x2="-3" y2= "1" />
+    <line id="21" class="fil0 str21" x1="21" y1="24" x2="-3" y2= "1" />
+    <line id="22" class="fil0 str22" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="23" class="fil0 str23" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="24" class="fil0 str24" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="25" class="fil0 str25" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="26" class="fil0 str26" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="27" class="fil0 str27" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="28" class="fil0 str28" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="29" class="fil0 str29" x1="22" y1="23" x2="-2" y2= "-1" />
+    <line id="30" class="fil0 str30" x1="22" y1="23" x2="-2" y2= "-1" />
+    <line id="31" class="fil0 str31" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="32" class="fil0 str32" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="33" class="fil0 str33" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="34" class="fil0 str34" x1="23" y1="22" x2="-1" y2= "-2" />
+    <line id="35" class="fil0 str35" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="36" class="fil0 str36" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="37" class="fil0 str37" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="38" class="fil0 str38" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="39" class="fil0 str39" x1="24" y1="21" x2="0" y2= "-2" />
+    <line id="40" class="fil0 str40" x1="24" y1="21" x2="0" y2= "-3" />
+    <line id="41" class="fil0 str41" x1="24" y1="21" x2="0" y2= "-3" />
+    <line id="42" class="fil0 str42" x1="24" y1="21" x2="1" y2= "-3" />
+    <line id="43" class="fil0 str43" x1="25" y1="21" x2="1" y2= "-3" />
+    <line id="44" class="fil0 str44" x1="25" y1="21" x2="1" y2= "-3" />
+    <line id="45" class="fil0 str45" x1="25" y1="20" x2="1" y2= "-4" />
+    <line id="46" class="fil0 str46" x1="25" y1="20" x2="1" y2= "-4" />
+    <line id="47" class="fil0 str47" x1="25" y1="20" x2="2" y2= "-4" />
+    <line id="48" class="fil0 str48" x1="26" y1="20" x2="2" y2= "-4" />
+    <line id="49" class="fil0 str49" x1="26" y1="19" x2="2" y2= "-5" />
+    <line id="50" class="fil0 str50" x1="26" y1="19" x2="2" y2= "-5" />
+    <line id="51" class="fil0 str51" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="52" class="fil0 str52" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="53" class="fil0 str53" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="54" class="fil0 str54" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="55" class="fil0 str55" x1="27" y1="18" x2="3" y2= "-6" />
+    <line id="56" class="fil0 str56" x1="27" y1="18" x2="4" y2= "-6" />
+    <line id="57" class="fil0 str57" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="58" class="fil0 str58" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="59" class="fil0 str59" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="60" class="fil0 str60" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="61" class="fil0 str61" x1="28" y1="17" x2="4" y2= "-6" />
+    <line id="62" class="fil0 str62" x1="28" y1="17" x2="4" y2= "-6" />
+    <line id="63" class="fil0 str63" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="64" class="fil0 str64" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="65" class="fil0 str65" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="66" class="fil0 str66" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="67" class="fil0 str67" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="68" class="fil0 str68" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="69" class="fil0 str69" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="70" class="fil0 str70" x1="29" y1="16" x2="5" y2= "-8" />
+    <line id="71" class="fil0 str71" x1="29" y1="16" x2="5" y2= "-8" />
+    <line id="72" class="fil0 str72" x1="30" y1="16" x2="6" y2= "-8" />
+    <line id="73" class="fil0 str73" x1="30" y1="16" x2="6" y2= "-8" />
+    <line id="74" class="fil0 str74" x1="30" y1="15" x2="6" y2= "-9" />
+    <line id="75" class="fil0 str75" x1="30" y1="15" x2="6" y2= "-9" />
+    <line id="76" class="fil0 str76" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="77" class="fil0 str77" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="78" class="fil0 str78" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="79" class="fil0 str79" x1="31" y1="14" x2="7" y2= "-10" />
+    <line id="80" class="fil0 str80" x1="31" y1="14" x2="7" y2= "-10" />
+    <line id="81" class="fil0 str81" x1="32" y1="14" x2="8" y2= "-10" />
+    <line id="82" class="fil0 str82" x1="32" y1="14" x2="8" y2= "-10" />
+    <line id="83" class="fil0 str83" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="84" class="fil0 str84" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="85" class="fil0 str85" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="86" class="fil0 str86" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="87" class="fil0 str87" x1="33" y1="13" x2="9" y2= "-11" />
+    <line id="88" class="fil0 str88" x1="33" y1="13" x2="9" y2= "-11" />
+    <line id="89" class="fil0 str89" x1="33" y1="12" x2="9" y2= "-12" />
+    <line id="90" class="fil0 str90" x1="33" y1="12" x2="9" y2= "-12" />
+    <line id="91" class="fil0 str91" x1="34" y1="12" x2="10" y2= "-12" />
+    <line id="92" class="fil0 str92" x1="34" y1="12" x2="10" y2= "-12" />
+    <line id="93" class="fil0 str93" x1="34" y1="11" x2="10" y2= "-12" />
+    <line id="94" class="fil0 str94" x1="34" y1="11" x2="10" y2= "-13" />
+    <line id="95" class="fil0 str95" x1="34" y1="11" x2="11" y2= "-13" />
+    <line id="96" class="fil0 str96" x1="35" y1="11" x2="11" y2= "-13" />
+    <line id="97" class="fil0 str97" x1="35" y1="11" x2="11" y2= "-13" />
+    <line id="98" class="fil0 str98" x1="35" y1="10" x2="11" y2= "-13" />
+    <line id="99" class="fil0 str99" x1="35" y1="10" x2="11" y2= "-14" />
+    <line id="100" class="fil0 str100" x1="35" y1="10" x2="11" y2= "-14" />
+    <line id="101" class="fil0 str101" x1="36" y1="10" x2="12" y2= "-14" />
+    <line id="102" class="fil0 str102" x1="36" y1="10" x2="12" y2= "-14" />
+    <line id="103" class="fil0 str103" x1="36" y1="9" x2="12" y2= "-15" />
+    <line id="104" class="fil0 str104" x1="36" y1="9" x2="12" y2= "-15" />
+    <line id="105" class="fil0 str105" x1="37" y1="9" x2="13" y2= "-15" />
+    <line id="106" class="fil0 str106" x1="37" y1="9" x2="13" y2= "-15" />
+    <line id="107" class="fil0 str107" x1="37" y1="8" x2="13" y2= "-16" />
+    <line id="108" class="fil0 str108" x1="37" y1="8" x2="13" y2= "-16" />
+    <line id="109" class="fil0 str109" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="110" class="fil0 str110" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="111" class="fil0 str111" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="112" class="fil0 str112" x1="38" y1="7" x2="14" y2= "-16" />
+    <line id="113" class="fil0 str113" x1="38" y1="7" x2="14" y2= "-17" />
+    <line id="114" class="fil0 str114" x1="38" y1="7" x2="14" y2= "-17" />
+    <line id="115" class="fil0 str115" x1="39" y1="7" x2="15" y2= "-17" />
+    <line id="116" class="fil0 str116" x1="39" y1="7" x2="15" y2= "-17" />
+    <line id="117" class="fil0 str117" x1="39" y1="6" x2="15" y2= "-17" />
+    <line id="118" class="fil0 str118" x1="39" y1="6" x2="15" y2= "-18" />
+    <line id="119" class="fil0 str119" x1="40" y1="6" x2="16" y2= "-18" />
+    <line id="120" class="fil0 str120" x1="40" y1="6" x2="16" y2= "-18" />
+    <line id="121" class="fil0 str121" x1="40" y1="5" x2="16" y2= "-19" />
+    <line id="122" class="fil0 str122" x1="-8" y1="6" x2="16" y2= "-18" />
+    <line id="123" class="fil0 str123" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="124" class="fil0 str124" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="125" class="fil0 str125" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="126" class="fil0 str126" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="127" class="fil0 str127" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="128" class="fil0 str128" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="129" class="fil0 str129" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="130" class="fil0 str130" x1="-6" y1="7" x2="18" y2= "-17" />
+    <line id="131" class="fil0 str131" x1="-6" y1="7" x2="18" y2= "-17" />
+    <line id="132" class="fil0 str132" x1="-6" y1="7" x2="18" y2= "-16" />
+    <line id="133" class="fil0 str133" x1="-6" y1="8" x2="18" y2= "-16" />
+    <line id="134" class="fil0 str134" x1="-6" y1="8" x2="18" y2= "-16" />
+    <line id="135" class="fil0 str135" x1="-5" y1="8" x2="19" y2= "-16" />
+    <line id="136" class="fil0 str136" x1="-5" y1="8" x2="19" y2= "-16" />
+    <line id="137" class="fil0 str137" x1="-5" y1="9" x2="19" y2= "-15" />
+    <line id="138" class="fil0 str138" x1="-5" y1="9" x2="19" y2= "-15" />
+    <line id="139" class="fil0 str139" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="140" class="fil0 str140" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="141" class="fil0 str141" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="142" class="fil0 str142" x1="-4" y1="10" x2="20" y2= "-14" />
+    <line id="143" class="fil0 str143" x1="-3" y1="10" x2="20" y2= "-14" />
+    <line id="144" class="fil0 str144" x1="-3" y1="10" x2="21" y2= "-14" />
+    <line id="145" class="fil0 str145" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="146" class="fil0 str146" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="147" class="fil0 str147" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="148" class="fil0 str148" x1="-2" y1="11" x2="22" y2= "-13" />
+    <line id="149" class="fil0 str149" x1="-2" y1="11" x2="22" y2= "-12" />
+    <line id="150" class="fil0 str150" x1="-2" y1="12" x2="22" y2= "-12" />
+    <line id="151" class="fil0 str151" x1="-2" y1="12" x2="22" y2= "-12" />
+    <line id="152" class="fil0 str152" x1="-1" y1="12" x2="23" y2= "-12" />
+    <line id="153" class="fil0 str153" x1="-1" y1="12" x2="23" y2= "-12" />
+    <line id="154" class="fil0 str154" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="155" class="fil0 str155" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="156" class="fil0 str156" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="157" class="fil0 str157" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="158" class="fil0 str158" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="159" class="fil0 str159" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="160" class="fil0 str160" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="161" class="fil0 str161" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="162" class="fil0 str162" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="163" class="fil0 str163" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="164" class="fil0 str164" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="165" class="fil0 str165" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="166" class="fil0 str166" x1="1" y1="15" x2="25" y2= "-9" />
+    <line id="167" class="fil0 str167" x1="1" y1="15" x2="25" y2= "-9" />
+    <line id="168" class="fil0 str168" x1="2" y1="15" x2="26" y2= "-9" />
+    <line id="169" class="fil0 str169" x1="2" y1="15" x2="26" y2= "-9" />
+    <line id="170" class="fil0 str170" x1="2" y1="16" x2="26" y2= "-8" />
+    <line id="171" class="fil0 str171" x1="2" y1="16" x2="26" y2= "-8" />
+    <line id="172" class="fil0 str172" x1="3" y1="16" x2="27" y2= "-8" />
+    <line id="173" class="fil0 str173" x1="3" y1="16" x2="27" y2= "-8" />
+    <line id="174" class="fil0 str174" x1="3" y1="17" x2="27" y2= "-7" />
+    <line id="175" class="fil0 str175" x1="3" y1="17" x2="27" y2= "-7" />
+    <line id="176" class="fil0 str176" x1="4" y1="17" x2="28" y2= "-7" />
+    <line id="177" class="fil0 str177" x1="4" y1="17" x2="28" y2= "-7" />
+    <line id="178" class="fil0 str178" x1="4" y1="18" x2="28" y2= "-6" />
+    <line id="179" class="fil0 str179" x1="5" y1="18" x2="29" y2= "-6" />
+    <line id="180" class="fil0 str180" x1="5" y1="18" x2="29" y2= "-6" />
+    <line id="181" class="fil0 str181" x1="5" y1="18" x2="29" y2= "-5" />
+    <line id="182" class="fil0 str182" x1="5" y1="19" x2="29" y2= "-5" />
+    <line id="183" class="fil0 str183" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="184" class="fil0 str184" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="185" class="fil0 str185" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="186" class="fil0 str186" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="187" class="fil0 str187" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="188" class="fil0 str188" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="189" class="fil0 str189" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="190" class="fil0 str190" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="191" class="fil0 str191" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="192" class="fil0 str192" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="193" class="fil0 str193" x1="7" y1="20" x2="31" y2= "-3" />
+    <line id="194" class="fil0 str194" x1="7" y1="21" x2="31" y2= "-3" />
+    <line id="195" class="fil0 str195" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="196" class="fil0 str196" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="197" class="fil0 str197" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="198" class="fil0 str198" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="199" class="fil0 str199" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="200" class="fil0 str200" x1="8" y1="22" x2="32" y2= "-2" />
+    <line id="201" class="fil0 str201" x1="8" y1="22" x2="32" y2= "-2" />
+    <line id="202" class="fil0 str202" x1="9" y1="22" x2="32" y2= "-2" />
+    <line id="203" class="fil0 str203" x1="9" y1="22" x2="33" y2= "-2" />
+    <line id="204" class="fil0 str204" x1="9" y1="23" x2="33" y2= "-1" />
+    <line id="205" class="fil0 str205" x1="9" y1="23" x2="33" y2= "-1" />
+    <line id="206" class="fil0 str206" x1="10" y1="23" x2="34" y2= "-1" />
+    <line id="207" class="fil0 str207" x1="10" y1="24" x2="34" y2= "0" />
+    <line id="208" class="fil0 str208" x1="10" y1="24" x2="34" y2= "0" />
+    <line id="209" class="fil0 str209" x1="11" y1="24" x2="34" y2= "0" />
+    <line id="210" class="fil0 str210" x1="11" y1="24" x2="35" y2= "0" />
+    <line id="211" class="fil0 str211" x1="11" y1="25" x2="35" y2= "1" />
+    <line id="212" class="fil0 str212" x1="11" y1="25" x2="35" y2= "1" />
+    <line id="213" class="fil0 str213" x1="12" y1="25" x2="36" y2= "1" />
+    <line id="214" class="fil0 str214" x1="12" y1="25" x2="36" y2= "2" />
+    <line id="215" class="fil0 str215" x1="12" y1="26" x2="36" y2= "2" />
+    <line id="216" class="fil0 str216" x1="12" y1="26" x2="36" y2= "2" />
+    <line id="217" class="fil0 str217" x1="13" y1="26" x2="37" y2= "2" />
+    <line id="218" class="fil0 str218" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="219" class="fil0 str219" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="220" class="fil0 str220" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="221" class="fil0 str221" x1="14" y1="27" x2="37" y2= "3" />
+    <line id="222" class="fil0 str222" x1="14" y1="27" x2="38" y2= "3" />
+    <line id="223" class="fil0 str223" x1="14" y1="27" x2="38" y2= "3" />
+    <line id="224" class="fil0 str224" x1="14" y1="28" x2="38" y2= "4" />
+    <line id="225" class="fil0 str225" x1="14" y1="28" x2="38" y2= "4" />
+    <line id="226" class="fil0 str226" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="227" class="fil0 str227" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="228" class="fil0 str228" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="229" class="fil0 str229" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="230" class="fil0 str230" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="231" class="fil0 str231" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="232" class="fil0 str232" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="233" class="fil0 str233" x1="16" y1="29" x2="40" y2= "5" />
+    <line id="234" class="fil0 str234" x1="16" y1="29" x2="40" y2= "5" />
+    <line id="235" class="fil0 str235" x1="16" y1="30" x2="40" y2= "6" />
+   </g>
+   <g style="clip-path:url(#id2)">
+   </g>
+  </g>
+  <g>
+   <g style="clip-path:url(#id3)">
+   </g>
+   <g style="clip-path:url(#id4)">
+    <line id="236" class="fil0 str0" x1="16" y1="29" x2="-8" y2= "6" />
+    <line id="237" class="fil0 str1" x1="16" y1="29" x2="-8" y2= "5" />
+    <line id="238" class="fil0 str2" x1="17" y1="29" x2="-7" y2= "5" />
+    <line id="239" class="fil0 str3" x1="17" y1="29" x2="-7" y2= "5" />
+    <line id="240" class="fil0 str4" x1="17" y1="28" x2="-7" y2= "4" />
+    <line id="241" class="fil0 str5" x1="17" y1="28" x2="-7" y2= "4" />
+    <line id="242" class="fil0 str6" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="243" class="fil0 str7" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="244" class="fil0 str8" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="245" class="fil0 str9" x1="18" y1="27" x2="-6" y2= "3" />
+    <line id="246" class="fil0 str10" x1="18" y1="27" x2="-6" y2= "3" />
+    <line id="247" class="fil0 str11" x1="18" y1="27" x2="-5" y2= "3" />
+    <line id="248" class="fil0 str12" x1="19" y1="27" x2="-5" y2= "3" />
+    <line id="249" class="fil0 str13" x1="19" y1="27" x2="-5" y2= "3" />
+    <line id="250" class="fil0 str14" x1="19" y1="26" x2="-5" y2= "2" />
+    <line id="251" class="fil0 str15" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="252" class="fil0 str16" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="253" class="fil0 str17" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="254" class="fil0 str18" x1="20" y1="25" x2="-4" y2= "1" />
+    <line id="255" class="fil0 str19" x1="21" y1="25" x2="-3" y2= "1" />
+    <line id="256" class="fil0 str20" x1="21" y1="25" x2="-3" y2= "1" />
+    <line id="257" class="fil0 str21" x1="21" y1="24" x2="-3" y2= "1" />
+    <line id="258" class="fil0 str22" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="259" class="fil0 str23" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="260" class="fil0 str24" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="261" class="fil0 str25" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="262" class="fil0 str26" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="263" class="fil0 str27" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="264" class="fil0 str28" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="265" class="fil0 str29" x1="22" y1="23" x2="-2" y2= "-1" />
+    <line id="266" class="fil0 str30" x1="22" y1="23" x2="-2" y2= "-1" />
+    <line id="267" class="fil0 str31" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="268" class="fil0 str32" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="269" class="fil0 str33" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="270" class="fil0 str34" x1="23" y1="22" x2="-1" y2= "-2" />
+    <line id="271" class="fil0 str35" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="272" class="fil0 str36" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="273" class="fil0 str37" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="274" class="fil0 str38" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="275" class="fil0 str39" x1="24" y1="21" x2="0" y2= "-2" />
+    <line id="276" class="fil0 str40" x1="24" y1="21" x2="0" y2= "-3" />
+    <line id="277" class="fil0 str41" x1="24" y1="21" x2="0" y2= "-3" />
+    <line id="278" class="fil0 str42" x1="24" y1="21" x2="1" y2= "-3" />
+    <line id="279" class="fil0 str43" x1="25" y1="21" x2="1" y2= "-3" />
+    <line id="280" class="fil0 str44" x1="25" y1="21" x2="1" y2= "-3" />
+    <line id="281" class="fil0 str45" x1="25" y1="20" x2="1" y2= "-4" />
+    <line id="282" class="fil0 str46" x1="25" y1="20" x2="1" y2= "-4" />
+    <line id="283" class="fil0 str47" x1="25" y1="20" x2="2" y2= "-4" />
+    <line id="284" class="fil0 str48" x1="26" y1="20" x2="2" y2= "-4" />
+    <line id="285" class="fil0 str49" x1="26" y1="19" x2="2" y2= "-5" />
+    <line id="286" class="fil0 str50" x1="26" y1="19" x2="2" y2= "-5" />
+    <line id="287" class="fil0 str51" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="288" class="fil0 str52" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="289" class="fil0 str53" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="290" class="fil0 str54" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="291" class="fil0 str55" x1="27" y1="18" x2="3" y2= "-6" />
+    <line id="292" class="fil0 str56" x1="27" y1="18" x2="4" y2= "-6" />
+    <line id="293" class="fil0 str57" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="294" class="fil0 str58" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="295" class="fil0 str59" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="296" class="fil0 str60" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="297" class="fil0 str61" x1="28" y1="17" x2="4" y2= "-6" />
+    <line id="298" class="fil0 str62" x1="28" y1="17" x2="4" y2= "-6" />
+    <line id="299" class="fil0 str63" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="300" class="fil0 str64" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="301" class="fil0 str65" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="302" class="fil0 str66" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="303" class="fil0 str67" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="304" class="fil0 str68" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="305" class="fil0 str69" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="306" class="fil0 str70" x1="29" y1="16" x2="5" y2= "-8" />
+    <line id="307" class="fil0 str71" x1="29" y1="16" x2="5" y2= "-8" />
+    <line id="308" class="fil0 str72" x1="30" y1="16" x2="6" y2= "-8" />
+    <line id="309" class="fil0 str73" x1="30" y1="16" x2="6" y2= "-8" />
+    <line id="310" class="fil0 str74" x1="30" y1="15" x2="6" y2= "-9" />
+    <line id="311" class="fil0 str75" x1="30" y1="15" x2="6" y2= "-9" />
+    <line id="312" class="fil0 str76" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="313" class="fil0 str77" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="314" class="fil0 str78" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="315" class="fil0 str79" x1="31" y1="14" x2="7" y2= "-10" />
+    <line id="316" class="fil0 str80" x1="31" y1="14" x2="7" y2= "-10" />
+    <line id="317" class="fil0 str81" x1="32" y1="14" x2="8" y2= "-10" />
+    <line id="318" class="fil0 str82" x1="32" y1="14" x2="8" y2= "-10" />
+    <line id="319" class="fil0 str83" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="320" class="fil0 str84" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="321" class="fil0 str85" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="322" class="fil0 str86" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="323" class="fil0 str87" x1="33" y1="13" x2="9" y2= "-11" />
+    <line id="324" class="fil0 str88" x1="33" y1="13" x2="9" y2= "-11" />
+    <line id="325" class="fil0 str89" x1="33" y1="12" x2="9" y2= "-12" />
+    <line id="326" class="fil0 str90" x1="33" y1="12" x2="9" y2= "-12" />
+    <line id="327" class="fil0 str91" x1="34" y1="12" x2="10" y2= "-12" />
+    <line id="328" class="fil0 str92" x1="34" y1="12" x2="10" y2= "-12" />
+    <line id="329" class="fil0 str93" x1="34" y1="11" x2="10" y2= "-12" />
+    <line id="330" class="fil0 str94" x1="34" y1="11" x2="10" y2= "-13" />
+    <line id="331" class="fil0 str95" x1="34" y1="11" x2="11" y2= "-13" />
+    <line id="332" class="fil0 str96" x1="35" y1="11" x2="11" y2= "-13" />
+    <line id="333" class="fil0 str97" x1="35" y1="11" x2="11" y2= "-13" />
+    <line id="334" class="fil0 str98" x1="35" y1="10" x2="11" y2= "-13" />
+    <line id="335" class="fil0 str99" x1="35" y1="10" x2="11" y2= "-14" />
+    <line id="336" class="fil0 str100" x1="35" y1="10" x2="11" y2= "-14" />
+    <line id="337" class="fil0 str101" x1="36" y1="10" x2="12" y2= "-14" />
+    <line id="338" class="fil0 str102" x1="36" y1="10" x2="12" y2= "-14" />
+    <line id="339" class="fil0 str103" x1="36" y1="9" x2="12" y2= "-15" />
+    <line id="340" class="fil0 str104" x1="36" y1="9" x2="12" y2= "-15" />
+    <line id="341" class="fil0 str105" x1="37" y1="9" x2="13" y2= "-15" />
+    <line id="342" class="fil0 str106" x1="37" y1="9" x2="13" y2= "-15" />
+    <line id="343" class="fil0 str107" x1="37" y1="8" x2="13" y2= "-16" />
+    <line id="344" class="fil0 str108" x1="37" y1="8" x2="13" y2= "-16" />
+    <line id="345" class="fil0 str109" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="346" class="fil0 str110" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="347" class="fil0 str111" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="348" class="fil0 str112" x1="38" y1="7" x2="14" y2= "-16" />
+    <line id="349" class="fil0 str113" x1="38" y1="7" x2="14" y2= "-17" />
+    <line id="350" class="fil0 str114" x1="38" y1="7" x2="14" y2= "-17" />
+    <line id="351" class="fil0 str115" x1="39" y1="7" x2="15" y2= "-17" />
+    <line id="352" class="fil0 str116" x1="39" y1="7" x2="15" y2= "-17" />
+    <line id="353" class="fil0 str117" x1="39" y1="6" x2="15" y2= "-17" />
+    <line id="354" class="fil0 str118" x1="39" y1="6" x2="15" y2= "-18" />
+    <line id="355" class="fil0 str119" x1="40" y1="6" x2="16" y2= "-18" />
+    <line id="356" class="fil0 str120" x1="40" y1="6" x2="16" y2= "-18" />
+    <line id="357" class="fil0 str121" x1="40" y1="5" x2="16" y2= "-19" />
+    <line id="358" class="fil0 str122" x1="-8" y1="6" x2="16" y2= "-18" />
+    <line id="359" class="fil0 str123" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="360" class="fil0 str124" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="361" class="fil0 str125" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="362" class="fil0 str126" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="363" class="fil0 str127" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="364" class="fil0 str128" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="365" class="fil0 str129" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="366" class="fil0 str130" x1="-6" y1="7" x2="18" y2= "-17" />
+    <line id="367" class="fil0 str131" x1="-6" y1="7" x2="18" y2= "-17" />
+    <line id="368" class="fil0 str132" x1="-6" y1="7" x2="18" y2= "-16" />
+    <line id="369" class="fil0 str133" x1="-6" y1="8" x2="18" y2= "-16" />
+    <line id="370" class="fil0 str134" x1="-6" y1="8" x2="18" y2= "-16" />
+    <line id="371" class="fil0 str135" x1="-5" y1="8" x2="19" y2= "-16" />
+    <line id="372" class="fil0 str136" x1="-5" y1="8" x2="19" y2= "-16" />
+    <line id="373" class="fil0 str137" x1="-5" y1="9" x2="19" y2= "-15" />
+    <line id="374" class="fil0 str138" x1="-5" y1="9" x2="19" y2= "-15" />
+    <line id="375" class="fil0 str139" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="376" class="fil0 str140" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="377" class="fil0 str141" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="378" class="fil0 str142" x1="-4" y1="10" x2="20" y2= "-14" />
+    <line id="379" class="fil0 str143" x1="-3" y1="10" x2="20" y2= "-14" />
+    <line id="380" class="fil0 str144" x1="-3" y1="10" x2="21" y2= "-14" />
+    <line id="381" class="fil0 str145" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="382" class="fil0 str146" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="383" class="fil0 str147" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="384" class="fil0 str148" x1="-2" y1="11" x2="22" y2= "-13" />
+    <line id="385" class="fil0 str149" x1="-2" y1="11" x2="22" y2= "-12" />
+    <line id="386" class="fil0 str150" x1="-2" y1="12" x2="22" y2= "-12" />
+    <line id="387" class="fil0 str151" x1="-2" y1="12" x2="22" y2= "-12" />
+    <line id="388" class="fil0 str152" x1="-1" y1="12" x2="23" y2= "-12" />
+    <line id="389" class="fil0 str153" x1="-1" y1="12" x2="23" y2= "-12" />
+    <line id="390" class="fil0 str154" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="391" class="fil0 str155" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="392" class="fil0 str156" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="393" class="fil0 str157" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="394" class="fil0 str158" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="395" class="fil0 str159" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="396" class="fil0 str160" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="397" class="fil0 str161" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="398" class="fil0 str162" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="399" class="fil0 str163" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="400" class="fil0 str164" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="401" class="fil0 str165" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="402" class="fil0 str166" x1="1" y1="15" x2="25" y2= "-9" />
+    <line id="403" class="fil0 str167" x1="1" y1="15" x2="25" y2= "-9" />
+    <line id="404" class="fil0 str168" x1="2" y1="15" x2="26" y2= "-9" />
+    <line id="405" class="fil0 str169" x1="2" y1="15" x2="26" y2= "-9" />
+    <line id="406" class="fil0 str170" x1="2" y1="16" x2="26" y2= "-8" />
+    <line id="407" class="fil0 str171" x1="2" y1="16" x2="26" y2= "-8" />
+    <line id="408" class="fil0 str172" x1="3" y1="16" x2="27" y2= "-8" />
+    <line id="409" class="fil0 str173" x1="3" y1="16" x2="27" y2= "-8" />
+    <line id="410" class="fil0 str174" x1="3" y1="17" x2="27" y2= "-7" />
+    <line id="411" class="fil0 str175" x1="3" y1="17" x2="27" y2= "-7" />
+    <line id="412" class="fil0 str176" x1="4" y1="17" x2="28" y2= "-7" />
+    <line id="413" class="fil0 str177" x1="4" y1="17" x2="28" y2= "-7" />
+    <line id="414" class="fil0 str178" x1="4" y1="18" x2="28" y2= "-6" />
+    <line id="415" class="fil0 str179" x1="5" y1="18" x2="29" y2= "-6" />
+    <line id="416" class="fil0 str180" x1="5" y1="18" x2="29" y2= "-6" />
+    <line id="417" class="fil0 str181" x1="5" y1="18" x2="29" y2= "-5" />
+    <line id="418" class="fil0 str182" x1="5" y1="19" x2="29" y2= "-5" />
+    <line id="419" class="fil0 str183" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="420" class="fil0 str184" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="421" class="fil0 str185" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="422" class="fil0 str186" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="423" class="fil0 str187" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="424" class="fil0 str188" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="425" class="fil0 str189" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="426" class="fil0 str190" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="427" class="fil0 str191" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="428" class="fil0 str192" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="429" class="fil0 str193" x1="7" y1="20" x2="31" y2= "-3" />
+    <line id="430" class="fil0 str194" x1="7" y1="21" x2="31" y2= "-3" />
+    <line id="431" class="fil0 str195" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="432" class="fil0 str196" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="433" class="fil0 str197" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="434" class="fil0 str198" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="435" class="fil0 str199" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="436" class="fil0 str200" x1="8" y1="22" x2="32" y2= "-2" />
+    <line id="437" class="fil0 str201" x1="8" y1="22" x2="32" y2= "-2" />
+    <line id="438" class="fil0 str202" x1="9" y1="22" x2="32" y2= "-2" />
+    <line id="439" class="fil0 str203" x1="9" y1="22" x2="33" y2= "-2" />
+    <line id="440" class="fil0 str204" x1="9" y1="23" x2="33" y2= "-1" />
+    <line id="441" class="fil0 str205" x1="9" y1="23" x2="33" y2= "-1" />
+    <line id="442" class="fil0 str206" x1="10" y1="23" x2="34" y2= "-1" />
+    <line id="443" class="fil0 str207" x1="10" y1="24" x2="34" y2= "0" />
+    <line id="444" class="fil0 str208" x1="10" y1="24" x2="34" y2= "0" />
+    <line id="445" class="fil0 str209" x1="11" y1="24" x2="34" y2= "0" />
+    <line id="446" class="fil0 str210" x1="11" y1="24" x2="35" y2= "0" />
+    <line id="447" class="fil0 str211" x1="11" y1="25" x2="35" y2= "1" />
+    <line id="448" class="fil0 str212" x1="11" y1="25" x2="35" y2= "1" />
+    <line id="449" class="fil0 str213" x1="12" y1="25" x2="36" y2= "1" />
+    <line id="450" class="fil0 str214" x1="12" y1="25" x2="36" y2= "2" />
+    <line id="451" class="fil0 str215" x1="12" y1="26" x2="36" y2= "2" />
+    <line id="452" class="fil0 str216" x1="12" y1="26" x2="36" y2= "2" />
+    <line id="453" class="fil0 str217" x1="13" y1="26" x2="37" y2= "2" />
+    <line id="454" class="fil0 str218" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="455" class="fil0 str219" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="456" class="fil0 str220" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="457" class="fil0 str221" x1="14" y1="27" x2="37" y2= "3" />
+    <line id="458" class="fil0 str222" x1="14" y1="27" x2="38" y2= "3" />
+    <line id="459" class="fil0 str223" x1="14" y1="27" x2="38" y2= "3" />
+    <line id="460" class="fil0 str224" x1="14" y1="28" x2="38" y2= "4" />
+    <line id="461" class="fil0 str225" x1="14" y1="28" x2="38" y2= "4" />
+    <line id="462" class="fil0 str226" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="463" class="fil0 str227" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="464" class="fil0 str228" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="465" class="fil0 str229" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="466" class="fil0 str230" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="467" class="fil0 str231" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="468" class="fil0 str232" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="469" class="fil0 str233" x1="16" y1="29" x2="40" y2= "5" />
+    <line id="470" class="fil0 str234" x1="16" y1="29" x2="40" y2= "5" />
+    <line id="471" class="fil0 str235" x1="16" y1="30" x2="40" y2= "6" />
+   </g>
+   <g style="clip-path:url(#id5)">
+   </g>
+  </g>
+  <g>
+   <g style="clip-path:url(#id6)">
+   </g>
+   <g style="clip-path:url(#id7)">
+    <line id="472" class="fil0 str0" x1="16" y1="29" x2="-8" y2= "6" />
+    <line id="473" class="fil0 str1" x1="16" y1="29" x2="-8" y2= "5" />
+    <line id="474" class="fil0 str2" x1="17" y1="29" x2="-7" y2= "5" />
+    <line id="475" class="fil0 str3" x1="17" y1="29" x2="-7" y2= "5" />
+    <line id="476" class="fil0 str4" x1="17" y1="28" x2="-7" y2= "4" />
+    <line id="477" class="fil0 str5" x1="17" y1="28" x2="-7" y2= "4" />
+    <line id="478" class="fil0 str6" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="479" class="fil0 str7" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="480" class="fil0 str8" x1="18" y1="28" x2="-6" y2= "4" />
+    <line id="481" class="fil0 str9" x1="18" y1="27" x2="-6" y2= "3" />
+    <line id="482" class="fil0 str10" x1="18" y1="27" x2="-6" y2= "3" />
+    <line id="483" class="fil0 str11" x1="18" y1="27" x2="-5" y2= "3" />
+    <line id="484" class="fil0 str12" x1="19" y1="27" x2="-5" y2= "3" />
+    <line id="485" class="fil0 str13" x1="19" y1="27" x2="-5" y2= "3" />
+    <line id="486" class="fil0 str14" x1="19" y1="26" x2="-5" y2= "2" />
+    <line id="487" class="fil0 str15" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="488" class="fil0 str16" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="489" class="fil0 str17" x1="20" y1="26" x2="-4" y2= "2" />
+    <line id="490" class="fil0 str18" x1="20" y1="25" x2="-4" y2= "1" />
+    <line id="491" class="fil0 str19" x1="21" y1="25" x2="-3" y2= "1" />
+    <line id="492" class="fil0 str20" x1="21" y1="25" x2="-3" y2= "1" />
+    <line id="493" class="fil0 str21" x1="21" y1="24" x2="-3" y2= "1" />
+    <line id="494" class="fil0 str22" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="495" class="fil0 str23" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="496" class="fil0 str24" x1="21" y1="24" x2="-3" y2= "0" />
+    <line id="497" class="fil0 str25" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="498" class="fil0 str26" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="499" class="fil0 str27" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="500" class="fil0 str28" x1="22" y1="24" x2="-2" y2= "0" />
+    <line id="501" class="fil0 str29" x1="22" y1="23" x2="-2" y2= "-1" />
+    <line id="502" class="fil0 str30" x1="22" y1="23" x2="-2" y2= "-1" />
+    <line id="503" class="fil0 str31" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="504" class="fil0 str32" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="505" class="fil0 str33" x1="23" y1="23" x2="-1" y2= "-1" />
+    <line id="506" class="fil0 str34" x1="23" y1="22" x2="-1" y2= "-2" />
+    <line id="507" class="fil0 str35" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="508" class="fil0 str36" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="509" class="fil0 str37" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="510" class="fil0 str38" x1="24" y1="22" x2="0" y2= "-2" />
+    <line id="511" class="fil0 str39" x1="24" y1="21" x2="0" y2= "-2" />
+    <line id="512" class="fil0 str40" x1="24" y1="21" x2="0" y2= "-3" />
+    <line id="513" class="fil0 str41" x1="24" y1="21" x2="0" y2= "-3" />
+    <line id="514" class="fil0 str42" x1="24" y1="21" x2="1" y2= "-3" />
+    <line id="515" class="fil0 str43" x1="25" y1="21" x2="1" y2= "-3" />
+    <line id="516" class="fil0 str44" x1="25" y1="21" x2="1" y2= "-3" />
+    <line id="517" class="fil0 str45" x1="25" y1="20" x2="1" y2= "-4" />
+    <line id="518" class="fil0 str46" x1="25" y1="20" x2="1" y2= "-4" />
+    <line id="519" class="fil0 str47" x1="25" y1="20" x2="2" y2= "-4" />
+    <line id="520" class="fil0 str48" x1="26" y1="20" x2="2" y2= "-4" />
+    <line id="521" class="fil0 str49" x1="26" y1="19" x2="2" y2= "-5" />
+    <line id="522" class="fil0 str50" x1="26" y1="19" x2="2" y2= "-5" />
+    <line id="523" class="fil0 str51" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="524" class="fil0 str52" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="525" class="fil0 str53" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="526" class="fil0 str54" x1="27" y1="19" x2="3" y2= "-5" />
+    <line id="527" class="fil0 str55" x1="27" y1="18" x2="3" y2= "-6" />
+    <line id="528" class="fil0 str56" x1="27" y1="18" x2="4" y2= "-6" />
+    <line id="529" class="fil0 str57" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="530" class="fil0 str58" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="531" class="fil0 str59" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="532" class="fil0 str60" x1="28" y1="18" x2="4" y2= "-6" />
+    <line id="533" class="fil0 str61" x1="28" y1="17" x2="4" y2= "-6" />
+    <line id="534" class="fil0 str62" x1="28" y1="17" x2="4" y2= "-6" />
+    <line id="535" class="fil0 str63" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="536" class="fil0 str64" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="537" class="fil0 str65" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="538" class="fil0 str66" x1="28" y1="17" x2="4" y2= "-7" />
+    <line id="539" class="fil0 str67" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="540" class="fil0 str68" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="541" class="fil0 str69" x1="29" y1="17" x2="5" y2= "-7" />
+    <line id="542" class="fil0 str70" x1="29" y1="16" x2="5" y2= "-8" />
+    <line id="543" class="fil0 str71" x1="29" y1="16" x2="5" y2= "-8" />
+    <line id="544" class="fil0 str72" x1="30" y1="16" x2="6" y2= "-8" />
+    <line id="545" class="fil0 str73" x1="30" y1="16" x2="6" y2= "-8" />
+    <line id="546" class="fil0 str74" x1="30" y1="15" x2="6" y2= "-9" />
+    <line id="547" class="fil0 str75" x1="30" y1="15" x2="6" y2= "-9" />
+    <line id="548" class="fil0 str76" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="549" class="fil0 str77" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="550" class="fil0 str78" x1="31" y1="15" x2="7" y2= "-9" />
+    <line id="551" class="fil0 str79" x1="31" y1="14" x2="7" y2= "-10" />
+    <line id="552" class="fil0 str80" x1="31" y1="14" x2="7" y2= "-10" />
+    <line id="553" class="fil0 str81" x1="32" y1="14" x2="8" y2= "-10" />
+    <line id="554" class="fil0 str82" x1="32" y1="14" x2="8" y2= "-10" />
+    <line id="555" class="fil0 str83" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="556" class="fil0 str84" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="557" class="fil0 str85" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="558" class="fil0 str86" x1="32" y1="13" x2="8" y2= "-11" />
+    <line id="559" class="fil0 str87" x1="33" y1="13" x2="9" y2= "-11" />
+    <line id="560" class="fil0 str88" x1="33" y1="13" x2="9" y2= "-11" />
+    <line id="561" class="fil0 str89" x1="33" y1="12" x2="9" y2= "-12" />
+    <line id="562" class="fil0 str90" x1="33" y1="12" x2="9" y2= "-12" />
+    <line id="563" class="fil0 str91" x1="34" y1="12" x2="10" y2= "-12" />
+    <line id="564" class="fil0 str92" x1="34" y1="12" x2="10" y2= "-12" />
+    <line id="565" class="fil0 str93" x1="34" y1="11" x2="10" y2= "-12" />
+    <line id="566" class="fil0 str94" x1="34" y1="11" x2="10" y2= "-13" />
+    <line id="567" class="fil0 str95" x1="34" y1="11" x2="11" y2= "-13" />
+    <line id="568" class="fil0 str96" x1="35" y1="11" x2="11" y2= "-13" />
+    <line id="569" class="fil0 str97" x1="35" y1="11" x2="11" y2= "-13" />
+    <line id="570" class="fil0 str98" x1="35" y1="10" x2="11" y2= "-13" />
+    <line id="571" class="fil0 str99" x1="35" y1="10" x2="11" y2= "-14" />
+    <line id="572" class="fil0 str100" x1="35" y1="10" x2="11" y2= "-14" />
+    <line id="573" class="fil0 str101" x1="36" y1="10" x2="12" y2= "-14" />
+    <line id="574" class="fil0 str102" x1="36" y1="10" x2="12" y2= "-14" />
+    <line id="575" class="fil0 str103" x1="36" y1="9" x2="12" y2= "-15" />
+    <line id="576" class="fil0 str104" x1="36" y1="9" x2="12" y2= "-15" />
+    <line id="577" class="fil0 str105" x1="37" y1="9" x2="13" y2= "-15" />
+    <line id="578" class="fil0 str106" x1="37" y1="9" x2="13" y2= "-15" />
+    <line id="579" class="fil0 str107" x1="37" y1="8" x2="13" y2= "-16" />
+    <line id="580" class="fil0 str108" x1="37" y1="8" x2="13" y2= "-16" />
+    <line id="581" class="fil0 str109" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="582" class="fil0 str110" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="583" class="fil0 str111" x1="38" y1="8" x2="14" y2= "-16" />
+    <line id="584" class="fil0 str112" x1="38" y1="7" x2="14" y2= "-16" />
+    <line id="585" class="fil0 str113" x1="38" y1="7" x2="14" y2= "-17" />
+    <line id="586" class="fil0 str114" x1="38" y1="7" x2="14" y2= "-17" />
+    <line id="587" class="fil0 str115" x1="39" y1="7" x2="15" y2= "-17" />
+    <line id="588" class="fil0 str116" x1="39" y1="7" x2="15" y2= "-17" />
+    <line id="589" class="fil0 str117" x1="39" y1="6" x2="15" y2= "-17" />
+    <line id="590" class="fil0 str118" x1="39" y1="6" x2="15" y2= "-18" />
+    <line id="591" class="fil0 str119" x1="40" y1="6" x2="16" y2= "-18" />
+    <line id="592" class="fil0 str120" x1="40" y1="6" x2="16" y2= "-18" />
+    <line id="593" class="fil0 str121" x1="40" y1="5" x2="16" y2= "-19" />
+    <line id="594" class="fil0 str122" x1="-8" y1="6" x2="16" y2= "-18" />
+    <line id="595" class="fil0 str123" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="596" class="fil0 str124" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="597" class="fil0 str125" x1="-7" y1="6" x2="17" y2= "-18" />
+    <line id="598" class="fil0 str126" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="599" class="fil0 str127" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="600" class="fil0 str128" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="601" class="fil0 str129" x1="-7" y1="7" x2="17" y2= "-17" />
+    <line id="602" class="fil0 str130" x1="-6" y1="7" x2="18" y2= "-17" />
+    <line id="603" class="fil0 str131" x1="-6" y1="7" x2="18" y2= "-17" />
+    <line id="604" class="fil0 str132" x1="-6" y1="7" x2="18" y2= "-16" />
+    <line id="605" class="fil0 str133" x1="-6" y1="8" x2="18" y2= "-16" />
+    <line id="606" class="fil0 str134" x1="-6" y1="8" x2="18" y2= "-16" />
+    <line id="607" class="fil0 str135" x1="-5" y1="8" x2="19" y2= "-16" />
+    <line id="608" class="fil0 str136" x1="-5" y1="8" x2="19" y2= "-16" />
+    <line id="609" class="fil0 str137" x1="-5" y1="9" x2="19" y2= "-15" />
+    <line id="610" class="fil0 str138" x1="-5" y1="9" x2="19" y2= "-15" />
+    <line id="611" class="fil0 str139" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="612" class="fil0 str140" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="613" class="fil0 str141" x1="-4" y1="9" x2="20" y2= "-15" />
+    <line id="614" class="fil0 str142" x1="-4" y1="10" x2="20" y2= "-14" />
+    <line id="615" class="fil0 str143" x1="-3" y1="10" x2="20" y2= "-14" />
+    <line id="616" class="fil0 str144" x1="-3" y1="10" x2="21" y2= "-14" />
+    <line id="617" class="fil0 str145" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="618" class="fil0 str146" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="619" class="fil0 str147" x1="-3" y1="11" x2="21" y2= "-13" />
+    <line id="620" class="fil0 str148" x1="-2" y1="11" x2="22" y2= "-13" />
+    <line id="621" class="fil0 str149" x1="-2" y1="11" x2="22" y2= "-12" />
+    <line id="622" class="fil0 str150" x1="-2" y1="12" x2="22" y2= "-12" />
+    <line id="623" class="fil0 str151" x1="-2" y1="12" x2="22" y2= "-12" />
+    <line id="624" class="fil0 str152" x1="-1" y1="12" x2="23" y2= "-12" />
+    <line id="625" class="fil0 str153" x1="-1" y1="12" x2="23" y2= "-12" />
+    <line id="626" class="fil0 str154" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="627" class="fil0 str155" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="628" class="fil0 str156" x1="-1" y1="13" x2="23" y2= "-11" />
+    <line id="629" class="fil0 str157" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="630" class="fil0 str158" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="631" class="fil0 str159" x1="0" y1="13" x2="24" y2= "-11" />
+    <line id="632" class="fil0 str160" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="633" class="fil0 str161" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="634" class="fil0 str162" x1="0" y1="14" x2="24" y2= "-10" />
+    <line id="635" class="fil0 str163" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="636" class="fil0 str164" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="637" class="fil0 str165" x1="1" y1="14" x2="25" y2= "-10" />
+    <line id="638" class="fil0 str166" x1="1" y1="15" x2="25" y2= "-9" />
+    <line id="639" class="fil0 str167" x1="1" y1="15" x2="25" y2= "-9" />
+    <line id="640" class="fil0 str168" x1="2" y1="15" x2="26" y2= "-9" />
+    <line id="641" class="fil0 str169" x1="2" y1="15" x2="26" y2= "-9" />
+    <line id="642" class="fil0 str170" x1="2" y1="16" x2="26" y2= "-8" />
+    <line id="643" class="fil0 str171" x1="2" y1="16" x2="26" y2= "-8" />
+    <line id="644" class="fil0 str172" x1="3" y1="16" x2="27" y2= "-8" />
+    <line id="645" class="fil0 str173" x1="3" y1="16" x2="27" y2= "-8" />
+    <line id="646" class="fil0 str174" x1="3" y1="17" x2="27" y2= "-7" />
+    <line id="647" class="fil0 str175" x1="3" y1="17" x2="27" y2= "-7" />
+    <line id="648" class="fil0 str176" x1="4" y1="17" x2="28" y2= "-7" />
+    <line id="649" class="fil0 str177" x1="4" y1="17" x2="28" y2= "-7" />
+    <line id="650" class="fil0 str178" x1="4" y1="18" x2="28" y2= "-6" />
+    <line id="651" class="fil0 str179" x1="5" y1="18" x2="29" y2= "-6" />
+    <line id="652" class="fil0 str180" x1="5" y1="18" x2="29" y2= "-6" />
+    <line id="653" class="fil0 str181" x1="5" y1="18" x2="29" y2= "-5" />
+    <line id="654" class="fil0 str182" x1="5" y1="19" x2="29" y2= "-5" />
+    <line id="655" class="fil0 str183" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="656" class="fil0 str184" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="657" class="fil0 str185" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="658" class="fil0 str186" x1="6" y1="19" x2="30" y2= "-5" />
+    <line id="659" class="fil0 str187" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="660" class="fil0 str188" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="661" class="fil0 str189" x1="6" y1="20" x2="30" y2= "-4" />
+    <line id="662" class="fil0 str190" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="663" class="fil0 str191" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="664" class="fil0 str192" x1="7" y1="20" x2="31" y2= "-4" />
+    <line id="665" class="fil0 str193" x1="7" y1="20" x2="31" y2= "-3" />
+    <line id="666" class="fil0 str194" x1="7" y1="21" x2="31" y2= "-3" />
+    <line id="667" class="fil0 str195" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="668" class="fil0 str196" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="669" class="fil0 str197" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="670" class="fil0 str198" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="671" class="fil0 str199" x1="8" y1="21" x2="32" y2= "-3" />
+    <line id="672" class="fil0 str200" x1="8" y1="22" x2="32" y2= "-2" />
+    <line id="673" class="fil0 str201" x1="8" y1="22" x2="32" y2= "-2" />
+    <line id="674" class="fil0 str202" x1="9" y1="22" x2="32" y2= "-2" />
+    <line id="675" class="fil0 str203" x1="9" y1="22" x2="33" y2= "-2" />
+    <line id="676" class="fil0 str204" x1="9" y1="23" x2="33" y2= "-1" />
+    <line id="677" class="fil0 str205" x1="9" y1="23" x2="33" y2= "-1" />
+    <line id="678" class="fil0 str206" x1="10" y1="23" x2="34" y2= "-1" />
+    <line id="679" class="fil0 str207" x1="10" y1="24" x2="34" y2= "0" />
+    <line id="680" class="fil0 str208" x1="10" y1="24" x2="34" y2= "0" />
+    <line id="681" class="fil0 str209" x1="11" y1="24" x2="34" y2= "0" />
+    <line id="682" class="fil0 str210" x1="11" y1="24" x2="35" y2= "0" />
+    <line id="683" class="fil0 str211" x1="11" y1="25" x2="35" y2= "1" />
+    <line id="684" class="fil0 str212" x1="11" y1="25" x2="35" y2= "1" />
+    <line id="685" class="fil0 str213" x1="12" y1="25" x2="36" y2= "1" />
+    <line id="686" class="fil0 str214" x1="12" y1="25" x2="36" y2= "2" />
+    <line id="687" class="fil0 str215" x1="12" y1="26" x2="36" y2= "2" />
+    <line id="688" class="fil0 str216" x1="12" y1="26" x2="36" y2= "2" />
+    <line id="689" class="fil0 str217" x1="13" y1="26" x2="37" y2= "2" />
+    <line id="690" class="fil0 str218" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="691" class="fil0 str219" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="692" class="fil0 str220" x1="13" y1="27" x2="37" y2= "3" />
+    <line id="693" class="fil0 str221" x1="14" y1="27" x2="37" y2= "3" />
+    <line id="694" class="fil0 str222" x1="14" y1="27" x2="38" y2= "3" />
+    <line id="695" class="fil0 str223" x1="14" y1="27" x2="38" y2= "3" />
+    <line id="696" class="fil0 str224" x1="14" y1="28" x2="38" y2= "4" />
+    <line id="697" class="fil0 str225" x1="14" y1="28" x2="38" y2= "4" />
+    <line id="698" class="fil0 str226" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="699" class="fil0 str227" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="700" class="fil0 str228" x1="15" y1="28" x2="39" y2= "4" />
+    <line id="701" class="fil0 str229" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="702" class="fil0 str230" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="703" class="fil0 str231" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="704" class="fil0 str232" x1="15" y1="29" x2="39" y2= "5" />
+    <line id="705" class="fil0 str233" x1="16" y1="29" x2="40" y2= "5" />
+    <line id="706" class="fil0 str234" x1="16" y1="29" x2="40" y2= "5" />
+    <line id="707" class="fil0 str235" x1="16" y1="30" x2="40" y2= "6" />
+   </g>
+   <g style="clip-path:url(#id8)">
+   </g>
+  </g>
+ </g>
+</svg>
