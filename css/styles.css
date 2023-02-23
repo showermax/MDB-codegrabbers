@@ -22,8 +22,8 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #00B3DB;
-  --bs-secondary: #6c757d;
+  --bs-primary: #66FCF1;
+  --bs-secondary: #45A29E;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #00B3DB;
@@ -229,7 +229,6 @@ sup {
 
 a {
   color: #00B3DB;
-  text-decoration: underline;
 }
 a:hover {
   color: #00B3DB;
@@ -3025,7 +3024,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #00B3DB;
+  background-color: var(--bs-secondary);
   border-color: #00B3DB;
 }
 .btn-primary:hover {
@@ -3467,7 +3466,6 @@ box-shadow: 0 0 0 0.25rem rgba(108, 117, 125, 0.5);
 .btn-link {
   font-weight: 400;
   color: #00B3DB;
-  text-decoration: underline;
 }
 .btn-link:hover {
   color: #cca000;
@@ -7830,7 +7828,7 @@ box-shadow: 0 0 0 0.25rem rgba(108, 117, 125, 0.5);
 }
 
 .bg-primary {
-  --bs-bg-opacity: 1;
+  --bs-bg-opacity: 0.01;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
 }
 
@@ -11821,4 +11819,12 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.flex-equal > * {
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    flex: 1;
+  }
 }
