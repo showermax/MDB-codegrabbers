@@ -11362,7 +11362,9 @@ p {
 #mainNav {
   /* padding-top: 1rem;
   padding-bottom: 1rem; */
-  background-color: #212529;
+  border: none;
+  background-color: transparent;
+  transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -11414,7 +11416,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #1F283395;
+     background-color: #1F283395; 
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
