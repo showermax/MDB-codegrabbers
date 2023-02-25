@@ -4514,11 +4514,14 @@ box-shadow: 0 0 0 0.25rem rgba(108, 117, 125, 0.5);
   border: 1px solid #66FCF1;
   border-radius: 0.25rem;
 }
-.card:hover{
+/* .card:hover{
   transform: scale(0.99);
 box-shadow: 0 10px 20px rgba(2, 158, 62, 0.12), 0 4px 8px rgba(216, 216, 216, 0.06);
+} */
+.card-body:hover{
+  transform: scale(1.02);
+box-shadow: 0 10px 20px rgba(2, 158, 62, 0.12), 0 4px 8px rgba(216, 216, 216, 0.06);
 }
-
 .card > hr {
   margin-right: 0;
   margin-left: 0;
@@ -4612,7 +4615,6 @@ box-shadow: 0 10px 20px rgba(2, 158, 62, 0.12), 0 4px 8px rgba(216, 216, 216, 0.
 .card-img,
 .card-img-top,
 .card-img-bottom {
-  padding-top: 0.75rem;
   width: 100%;
 }
 
