@@ -7974,6 +7974,9 @@ box-shadow: 0 10px 20px rgba(2, 158, 62, 0.12), 0 4px 8px rgba(216, 216, 216, 0.
 .rounded-3 {
   border-radius: 0.3rem !important;
 }
+.rounded-4 {
+  border-radius: 1rem !important;
+}
 
 .rounded-circle {
   border-radius: 50% !important;
