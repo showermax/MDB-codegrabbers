@@ -228,7 +228,7 @@ sup {
 }
 
 a {
-  /* color: #00B3DB; */
+color: #00B3DB; 
 }
 a:hover {
   color: #00B3DB;
@@ -665,6 +665,7 @@ progress {
   margin-top: calc(-1 * var(--bs-gutter-y));
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
+  justify-content: center;
 }
 .row > * {
   flex-shrink: 0;
@@ -7972,6 +7973,9 @@ box-shadow: 0 10px 20px rgba(2, 158, 62, 0.12), 0 4px 8px rgba(216, 216, 216, 0.
 
 .rounded-3 {
   border-radius: 0.3rem !important;
+}
+.rounded-4 {
+  border-radius: 1rem !important;
 }
 
 .rounded-circle {
